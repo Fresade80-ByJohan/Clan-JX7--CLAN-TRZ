@@ -4497,7 +4497,7 @@ end)
 
 local Credits = window:AddTab("Credits")
 
-Credits:AddLabel("paid version cracked by Johan")
+Credits:AddLabel("paid version by Johan")
 Credits:AddLabel("Script Made by Fresade80:")
-Credits:AddLabel("Johan JX7, Max JX7, Junior JX7 | JX7 ON TOP")
-Credits:AddLabel("Espero que les guste el script. Si tienen algún error o sugerencia, pueden contactarme en mi servidor de Discord o Tiktok")
+Credits:AddLabel("Johan JX7, Max JX7, Junior JX7 | JX7 And TRZ ON TOP")
+Credits:AddLabel("Paid echo por el lider Johan y el lider Tadeo Ramirez diaz")
